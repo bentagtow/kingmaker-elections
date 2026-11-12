@@ -1,3 +1,15 @@
+SUMMARY: 
+
+It's fantasy football... for US Elections. 
+
+This app will give users the opportunity to draft their very own team of political candidates! Join leagues and compete against other users, with the goal being to draft the most successful candidates. With a customizable scoring system, you can choose how you reward league points, including things like candidacy declarations, primary wins, and simply staying in the race. Gather a group of your political-junkie friends or compete against strangers. 
+
+Notes:  
+- We don't pick sides, we just draft them! While this app is politics-based, we are non-partisan.
+- This is a free-to-play app with no money involved. 
+
+##################################################################
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
